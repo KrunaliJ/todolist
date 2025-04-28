@@ -1,4 +1,4 @@
-# todolist
+# todolist using data type list
 it is simple Todo List Magic Manager 
 
 *def display_menu():
